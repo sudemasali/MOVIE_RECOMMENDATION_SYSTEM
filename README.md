@@ -106,6 +106,6 @@ python app.py
 
 ## Author
 
-Sude Masalı
+Sude Maşalı,Batuhan Çelikbaş,Rumeysa Tüysüz,Berna Tan
 
 Computer Engineer interested in AI, Business & Technology
